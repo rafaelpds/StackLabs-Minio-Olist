@@ -34,4 +34,3 @@ Uma política de atração de vendedores nos estados da regiões Norte, Nordeste
 * Oferecer treinamento na área de vendas, relações com o cliente, negociação com fornecedores, gamificação, administração, entre outros, podem garantir a longevidade das empresas;
 
 * Com vendedores mais confiantes, estes novos atores podem vender de forma sustentável, garantindo o incremento nas vendas.
-
