@@ -30,7 +30,7 @@ Para responder a questão de que *fatores permitem a manutenção do faturamento
 
 A solução para o armazenamento, seleção de features e análises foram foram desenvolvidas a partir do servico de cloud da Google, explicitado no diagrama abaixo:
 
-![image](https://user-images.githubusercontent.com/8771239/153862666-5f28b789-8692-4623-bea4-5ffd1d417f59.png
+![image](https://user-images.githubusercontent.com/8771239/153863209-09f0a519-5eed-4329-917e-ec7e048ceebe.png)
 
 ## Modelos de previsão
 
@@ -39,7 +39,7 @@ A solução para o armazenamento, seleção de features e análises foram foram 
 ![image](https://user-images.githubusercontent.com/89212899/151978392-d521fc1c-c4cf-4cf3-8569-174aaab404c0.png)
 
 2) O modelo de previsão paras as regiões analisadas demonstrou solidez, uma vez que as projeções de produtos vendidos são naturalemnte ascendentes. A métrica do RMSE demontrou uma variação de 28 erros padrão, o que demonstra uma baixa variação dessa previsão para um perído de 4 anos.
-3) 
+
 ![image](https://user-images.githubusercontent.com/89212899/151978423-069f1bcd-2377-422a-a18f-d45bfb70f621.png)
 
 ## Insigths
