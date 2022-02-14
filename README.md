@@ -25,5 +25,13 @@
 
 ![image](https://user-images.githubusercontent.com/89212899/151978423-069f1bcd-2377-422a-a18f-d45bfb70f621.png)
 
+## Insigths
 
+Uma política de atração de vendedores nos estados da regiões Norte, Nordeste e Centro-Oeste impactaria de modo positivo nas vendas da companhia:
+
+* O impacto mais importante está ligado a redução do preço do frete. Os dados da companhia demonstram que o custo e o tempo do transporte de mercadorias para essas localidades pode ser um fator determinante na escolha dos compradores;
+
+* Oferecer treinamento na área de vendas, relações com o cliente, negociação com fornecedores, gamificação, administração, entre outros, podem garantir a longevidade das empresas;
+
+* Com vendedores mais confiantes, estes novos atores podem vender de forma sustentável, garantindo o incremento nas vendas.
 
